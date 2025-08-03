@@ -35,6 +35,12 @@ void main()
 	ans = sum(x,y);
 	printf("\nsum = %d\n",ans);
 
+	//You can use above method to print the sum or below method.
+	//It's up to your preferance
+
+	printLine();
+	printf("\nTotal= %d\n",x+y);
+
 	printLine();
 
 	getch();
